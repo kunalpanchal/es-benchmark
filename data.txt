@@ -1,0 +1,26 @@
+numberOfClusters =10
+loop = 2
+timeStampDiff = 335
+
+numberOfClusters =10
+loop = 200
+timeStampDiff = 392
+
+numberOfClusters =50
+loop = 10
+timeStampDiff = 1978
+
+
+numberOfClusters =70
+loop = 10
+timeStampDiff = 5000
+
+numberOfClusters =70
+loop = 30
+timeStampDiff = 5207
+
+numberOfClusters =100
+loop = 30
+timeStampDiff = 5207
+
+

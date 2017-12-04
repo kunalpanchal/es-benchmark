@@ -1,0 +1,19 @@
+{
+  "name": "es-load-test",
+  "version": "1.0.0",
+  "description": "Testing the elastic search with heavy load",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elasticsearch"
+  ],
+  "author": "kay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mongoose": "^4.13.6",
+    "shelljs": "^0.7.8"
+  }
+}
